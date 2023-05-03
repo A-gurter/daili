@@ -1,11 +1,11 @@
 {
     "name": "daili",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "description": "Deploy demo on Herokull.",
+    "keywords": ["demo"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "ad806487-2d26-4636-98b6-ab85cc7421f7"
         },
         "AID": {
             "description": "AlterID",
@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/A-gurter/daili",
     "stack": "container"
 }
